@@ -5,9 +5,9 @@
 --
 
 -- Get Monitor
-local Monitor = peripheral.wrap("Monitor_2")
-local ReactorMonitor = peripheral.wrap("Monitor_3")
-local meMonitor = peripheral.wrap("Monitor_4")
+local Monitor = peripheral.wrap("monitor_2")
+local ReactorMonitor = peripheral.wrap("monitor_3")
+local meMonitor = peripheral.wrap("monitor_4")
 
 local button = require("button")
 local graphic = require("graphic")
