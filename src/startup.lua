@@ -9,9 +9,6 @@ local Monitor = peripheral.wrap("Monitor_2")
 local ReactorMonitor = peripheral.wrap("Monitor_3")
 local meMonitor = peripheral.wrap("Monitor_4")
 
-local outComputer = peripheral.wrap("computer_12")
-local modem = peripheral.find("modem")
-
 local button = require("button")
 local graphic = require("graphic")
 
